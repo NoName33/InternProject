@@ -1,0 +1,229 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"lemon",
+				"lemon_chicken"
+			],
+			[
+				"__",
+				"__CLASS__"
+			],
+			[
+				"a",
+				"acos"
+			],
+			[
+				"title",
+				"title"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"add",
+				"addIngredient"
+			],
+			[
+				"measurem",
+				"measurements"
+			],
+			[
+				"dis",
+				"displayTitleRecipe"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "Packa",
+		"selected_items":
+		[
+			[
+				"Packa",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/projectInternLateral/proj.sublime-project",
+		"/C/Users/Adina/AppData/Roaming/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/C/xampp/htdocs/projectInternLateral/hello.php",
+		"/C/Users/Adina/AppData/Roaming/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/C/xampp/htdocs/treeSlim/.htaccess",
+		"/C/xampp/htdocs/treeSlim/index.php",
+		"/C/xampp/htdocs/monologTree/index.php",
+		"/C/xampp/htdocs/monologTree/.htaccess",
+		"/C/xampp/htdocs/monologTree/vendor/slim/slim/.htaccess",
+		"/C/xampp/htdocs/monologTree/app.txt",
+		"/C/MAMP/htdocs/ProjOOBasic/classes/render.php",
+		"/C/MAMP/htdocs/ProjOOBasic/classes/recipes.php",
+		"/C/MAMP/htdocs/ProjOOBasic/cookbook.php",
+		"/C/MAMP/htdocs/ProjOOBasic/classes/recipecollection.php",
+		"/C/MAMP/htdocs/ProjOOBasic/inc/allrecipes.php",
+		"/C/Users/Adina/AppData/Local/Temp/Rar$DI01.985/render.php",
+		"/C/Users/Adina/AppData/Local/Temp/Rar$DI01.250/recipecollection.php",
+		"/C/Users/Adina/AppData/Local/Temp/Rar$DI00.047/recipe.php",
+		"/C/Users/Adina/AppData/Local/Temp/Rar$DI02.360/cookbook.php",
+		"/C/MAMP/htdocs/ProjOOBasic/classes/cookbook.php",
+		"/C/Users/Adina/AppData/Local/Temp/Rar$DI00.547/suggest.php",
+		"/C/MAMP/htdocs/GFSProj1Media/thanks.php",
+		"/C/MAMP/htdocs/GFSProj1Media/process.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"recipecollection.php",
+			"title"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 335.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/PHP.sublime-build",
+	"project": "proj.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

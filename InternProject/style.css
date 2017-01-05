@@ -1,0 +1,53 @@
+#article{
+    margin-top: 30px;
+    margin-left: 20px;
+}
+.login_page{
+    margin-top: 80px;
+    margin-left: 300px;
+}
+.login-div{
+    margin-top: 60px;
+}
+#profile{
+    margin-top: 60px;
+}
+#articles{
+    margin-top: 40px;  
+}
+
+#date{
+    margin-left: 700px;
+}
+
+#content{
+    margin-top: 50px;
+}
+
+#date{
+    float: right;
+}
+
+#trimstring{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+#profile{
+    margin-left: 30px;
+}
+
+#welcome{
+    margin-top: 20px;
+}
+
+#button{
+    margin-top: 10px;
+
+}
+#buttonShowId{
+    float: right;
+    margin-top: 10px;
+}
+#date{
+    float: right;
+}
